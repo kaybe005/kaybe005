@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **React,**
+- 💬 Ask me about **Finance, Sports**
 
 - 📫 How to reach me **kalashbijukchhe74@gmail.com**
 
-- ⚡ Fun fact **I love finance**
+- ⚡ Fun fact **I'll complete my Bachelor's at 20.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
