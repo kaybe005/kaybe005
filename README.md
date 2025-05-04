@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaybe005" alt="kaybe005" /></a> </p>
 
-- 🔭 I’m currently working on [Fyntra](https://github.com/kaybe005/Fyntra.git)
+- 🔭 I’m currently working on [Coincise](https://github.com/kaybe005/Coincise.git)
 
 - 🌱 I’m currently learning **Nodejs**
 
