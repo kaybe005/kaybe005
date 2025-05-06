@@ -1,5 +1,6 @@
-
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kaybe005&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
 <h1 align="center">✨ Kalash Bijukchhe</h1>
 <h3 align="center">Full-Stack Developer ⚙ | AI Learner 🧠 | Based in Sydney 🇦🇺</h3>
 
@@ -16,6 +17,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaybe005&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybe005&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ###
