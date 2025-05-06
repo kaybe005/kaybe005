@@ -40,9 +40,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-### 🛠️ Tech Stack
-
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
