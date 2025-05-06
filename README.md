@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kaybe005/kaybe005/main/assets/kalash-banner.png" alt="Kalash Bijukchhe Banner" />
-</p>
+
 
 <h1 align="center">✨ Kalash Bijukchhe</h1>
 <h3 align="center">Full-Stack Developer ⚙ | AI Learner 🧠 | Based in Sydney 🇦🇺</h3>
