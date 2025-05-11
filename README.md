@@ -15,6 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaybe005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
+[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=6YYkbANmjMngssipf9sA0A&userName=Kalash&style=bar&color=000000)](https://github.com/kaybe005/kaybe005)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaybe005&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
 </p>
