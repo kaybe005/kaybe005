@@ -44,7 +44,7 @@
 
 - 🔍 **Fyntra** – AI stock dashboard using GPT-4, Reddit, charts
 - 💰 **Coincise** – Personal finance tracker (WIP)
-- 👤 **Haunted House** – A 3d haunted house built with Three.js
+- 👻 **Haunted House** – A 3d haunted house built with Three.js
 - 🧳 **Tourism System** – ASP.NET MVC app with booking and profiles
 
 ###
