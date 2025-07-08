@@ -35,7 +35,7 @@
 
 ### 🧠 Currently Learning
 
-- Three.js, GLSL
+- C++
 - LangChain & OpenAI LLMs
 - ASP.NET MVC with SQL Server
 - MongoDB Atlas & JWT Auth
