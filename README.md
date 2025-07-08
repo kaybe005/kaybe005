@@ -38,7 +38,6 @@
 - C++
 - LangChain & OpenAI LLMs
 - ASP.NET MVC with SQL Server
-- MongoDB Atlas & JWT Auth
 
 ### 🚀 Projects
 
