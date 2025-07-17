@@ -21,17 +21,16 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaybe005&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaybe005&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kaybe005&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybe005&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaybe005&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-
-<img align="right" height="180" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" />
+---
+[![](https://visitcount.itsvg.in/api?id=kaybe005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🧠 Currently Learning
 
