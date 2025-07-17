@@ -39,18 +39,20 @@
 </div>
 
 
-### 🧠 Currently Learning
+🎯 Currently Sharpening My Edge In  
+• **C++ (STL, OOP, Multithreading)** — mastering performance-driven systems  
+• **LangChain & OpenAI APIs** — building autonomous LLM agents for real-world tasks  
+• **ASP.NET MVC + SQL Server** — enterprise-grade web apps with secure backend logic  
+• Always exploring ✨ creative & AI-first tooling (RAG pipelines, agentic workflows)
 
-- C++
-- LangChain & OpenAI LLMs
-- ASP.NET MVC with SQL Server
 
-### 🚀 Projects
+🚀 Projects (Full-Stack • AI • 3D • Systems)
 
-- 🔍 **Fyntra** – AI stock dashboard using GPT-4, Reddit, charts
-- 💰 **Coincise** – Personal finance tracker (WIP)
-- 👻 **Haunted House** – A 3d haunted house built with Three.js
-- 🧳 **Tourism System** – ASP.NET MVC app with booking and profiles
+• **Fyntra** — AI-powered stock dashboard that fuses GPT-4, Reddit sentiment, and market APIs to generate smart financial insights  
+• **Coincise** *(WIP)* — A minimal yet powerful personal finance tracker with real-time income/expense analytics  
+• **Haunted House 3D** — Interactive 3D web experience built with Three.js & GLSL — complete with animated lighting, camera nav, and puzzle logic  
+• **Tourism System** — ASP.NET MVC app for agency bookings with role-based access, SQL backend, and reporting dashboard  
+
 
 ###
 
