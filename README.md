@@ -38,20 +38,30 @@
 
 </div>
 
+---
 
-🎯 Currently Sharpening My Edge In  
+### 🧠 Currently Leveling Up
+
 • **C++ (STL, OOP, Multithreading)** — mastering performance-driven systems  
-• **LangChain & OpenAI APIs** — building autonomous LLM agents for real-world tasks  
-• **ASP.NET MVC + SQL Server** — enterprise-grade web apps with secure backend logic  
-• Always exploring ✨ creative & AI-first tooling (RAG pipelines, agentic workflows)
+• **LangChain & OpenAI APIs** — building autonomous agents and LLM-powered backends  
+• **ASP.NET MVC + SQL Server** — developing robust, enterprise-grade web applications  
+• Exploring AI-first tooling like **RAG pipelines**, **agent workflows**, and **LLM orchestration**
 
+---
 
-🚀 Projects (Full-Stack • AI • 3D • Systems)
+### 🚀 Featured Projects
 
-• **Fyntra** — AI-powered stock dashboard that fuses GPT-4, Reddit sentiment, and market APIs to generate smart financial insights  
-• **Coincise** *(WIP)* — A minimal yet powerful personal finance tracker with real-time income/expense analytics  
-• **Haunted House 3D** — Interactive 3D web experience built with Three.js & GLSL — complete with animated lighting, camera nav, and puzzle logic  
-• **Tourism System** — ASP.NET MVC app for agency bookings with role-based access, SQL backend, and reporting dashboard  
+**📈 Fyntra** — AI-powered stock dashboard that combines GPT-4, Reddit sentiment, and market APIs to deliver real-time investment insights  
+> *Tech:* React, Node.js, Express, MongoDB, OpenAI API  
+
+**💸 Coincise** *(WIP)* — A clean personal finance tracker with real-time income/expense insights and budget analytics  
+> *Tech:* Vite, Tailwind, Node.js, MongoDB  
+
+**🏚 Haunted House 3D** — Interactive 3D horror experience with camera controls, lighting, and spatial puzzles built in Three.js  
+> *Tech:* Three.js, GLSL, Vite  
+
+**🌐 Tourism System** — ASP.NET MVC web app for booking and managing tours, featuring SQL-backed dashboards and secure role-based access  
+> *Tech:* ASP.NET MVC, C#, SQL Server  
 
 
 ###
