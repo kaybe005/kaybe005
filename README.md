@@ -1,92 +1,140 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kaybe005&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
-</p>
-<h1 align="center">✨ Kalash Bijukchhe</h1>
-<h3 align="center">Full-Stack Developer ⚙ | AI Learner 🧠 | Based in Sydney 🇦🇺</h3>
+# Hi, I'm Kalash Bijukchhe 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+code+into+projects...;Building+amazing+apps+daily+%F0%9F%8E%AF;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+**Aspiring Junior DevOps / Cloud / Platform Engineer based in Sydney, Australia.**
 
-###
+I'm an IT student with a full-stack development background, now focused on cloud infrastructure, Kubernetes, GitOps, CI/CD, and platform engineering fundamentals.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaybe005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaybe005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-
-  [![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=6YYkbANmjMngssipf9sA0A&userName=Kalash&style=bar&color=000000&backgroundColor=ffffff&borderRadius=15px&width=80%&height=100)](https://open.spotify.com/playlist/6YYkbANmjMngssipf9sA0A)
-
-</div>
-
-<div align="center">
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kaybe005&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kaybe005&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybe005&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I like building hands-on systems that force me to understand deployment, networking, automation, observability, and real troubleshooting beyond just application code.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kaybe005&icon=0&color=0)](https://visitcount.itsvg.in)
+## Current Focus
 
-</div>
-
----
-
-### 🧠 Currently Leveling Up
-
-• **C++ (STL, OOP, Multithreading)** — mastering performance-driven systems  
-• **LangChain & OpenAI APIs** — building autonomous agents and LLM-powered backends  
-• **ASP.NET MVC + SQL Server** — developing robust, enterprise-grade web applications  
-• Exploring AI-first tooling like **RAG pipelines**, **agent workflows**, and **LLM orchestration**
+- Kubernetes, Helm, ArgoCD, and GitOps workflows
+- AWS networking and Terraform infrastructure as code
+- CI/CD pipelines and containerized deployments
+- Linux, networking, monitoring, and troubleshooting
+- Prometheus/Grafana observability and SRE fundamentals
 
 ---
 
-### 🚀 Featured Projects
+## Featured DevOps / Cloud Projects
 
-**📈 Fyntra** — AI-powered stock dashboard that combines GPT-4, Reddit sentiment, and market APIs to deliver real-time investment insights  
-> *Tech:* React, Node.js, Express, MongoDB, OpenAI API  
+### [ERP Lite GitOps Homelab Platform](https://github.com/kaybe005/erp-lite)
 
-**💸 Coincise** *(WIP)* — A clean personal finance tracker with real-time income/expense insights and budget analytics  
-> *Tech:* Vite, Tailwind, Node.js, MongoDB  
+Full-stack ERP app deployed through a Kubernetes GitOps workflow in a homelab environment.
 
-**🏚 Haunted House 3D** — Interactive 3D horror experience with camera controls, lighting, and spatial puzzles built in Three.js  
-> *Tech:* Three.js, GLSL, Vite  
+**Stack:** Next.js, Prisma, PostgreSQL, Docker, GitHub Actions, GHCR, Helm, ArgoCD, k3s, Traefik, cert-manager, Prometheus, Grafana
 
-**🌐 Tourism System** — ASP.NET MVC web app for booking and managing tours, featuring SQL-backed dashboards and secure role-based access  
-> *Tech:* ASP.NET MVC, C#, SQL Server  
+**What it demonstrates:**
 
+- Built a production-style homelab deployment workflow using immutable Git SHA image tags
+- Published `linux/amd64` Docker Buildx images to GHCR through GitHub Actions
+- Deployed the app with Helm and ArgoCD into a k3s Kubernetes cluster
+- Configured Traefik ingress, cert-manager TLS, and PVC-backed PostgreSQL
+- Monitored the stack with Prometheus and Grafana
+- Debugged real platform issues including ARM64/AMD64 image mismatch, image pull policy behavior, PVC drift, Prisma migration separation, DNS, ingress, and Grafana troubleshooting
 
-###
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### [AWS Secure Web Infrastructure with Terraform](https://github.com/kaybe005/aws-terraform-web-infra)
 
-### 🤝 Connect With Me
+Secure AWS web infrastructure pattern using Terraform: public ALB to private EC2 with NAT outbound and SSM access.
 
-<div align="left">
-  <a href="https://linkedin.com/in/kayb05" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:kalashbijukchhe74@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/kay_beee05" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
+**Stack:** Terraform, AWS VPC, EC2, ALB, NAT Gateway, IAM, SSM Session Manager, Nginx, security groups, user data
 
-###
+**What it demonstrates:**
 
-<br clear="both">
+- Built a production-style learning architecture with public and private subnet separation
+- Deployed 2 public subnets, 2 private subnets, Internet Gateway, NAT Gateway, ALB, target group, and private EC2
+- Kept EC2 private with no public IP and managed access through AWS Systems Manager Session Manager instead of SSH
+- Used security groups to control traffic between the ALB and private instance
+- Automated Nginx bootstrap with `user_data`
+- Practiced ALB target group and health check debugging
 
-<img src="https://raw.githubusercontent.com/kaybe005/kaybe005/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### Full-Stack Application Background
+
+Before shifting into DevOps/cloud, I built full-stack applications with React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma, TypeScript, and Tailwind.
+
+Earlier projects include finance and dashboard-style apps such as Fyntra and Coincise. That background helps me understand the application side of the systems I deploy and operate.
+
+---
+
+## Tech Stack
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### CI/CD & GitOps
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GHCR](https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-222222?style=flat-square&logo=git&logoColor=white)
+
+### Networking & Security
+
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![NAT Gateway](https://img.shields.io/badge/NAT_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SSM](https://img.shields.io/badge/SSM_Session_Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![cert-manager](https://img.shields.io/badge/cert--manager-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-222222?style=flat-square)
+![TLS](https://img.shields.io/badge/TLS-222222?style=flat-square)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### Application Background
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## What I'm Learning Next
+
+- Deeper AWS networking and IAM patterns
+- Terraform modules, remote state, and reusable infrastructure design
+- Kubernetes operations and multi-node cluster management
+- Monitoring, alerting, incident response, and runbook-style troubleshooting
+- Secret management, backup/restore workflows, and disaster recovery basics
+
+---
+
+## GitHub Stats
+
+![Kalash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaybe005&show_icons=true&hide_border=true&theme=default)
+
+---
+
+## Connect
+
+- Portfolio: [kalashbijukchhe.com](https://kalashbijukchhe.com)
+- LinkedIn: [linkedin.com/in/kayb05](https://linkedin.com/in/kayb05)
+- Email: [kalashbijukchhe74@gmail.com](mailto:kalashbijukchhe74@gmail.com)
