@@ -72,6 +72,6 @@ That background helps me understand the application, database, and runtime conce
 
 ## Connect
 
-- Portfolio: [kalashbijukchhe.com](https://kalashbijukchhe.com)
+- Portfolio: [kalashbijukchhe.dev](https://kalashbijukchhe.dev)
 - LinkedIn: [linkedin.com/in/kayb05](https://linkedin.com/in/kayb05)
 - Email: [kalashbijukchhe74@gmail.com](mailto:kalashbijukchhe74@gmail.com)
