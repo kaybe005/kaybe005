@@ -1,77 +1,84 @@
 # Kalash Bijukchhe
 
-**Aspiring Junior DevOps / Cloud / Platform Engineer**  
-Sydney, Australia | Kubernetes GitOps | AWS Terraform | CI/CD | Linux
+**DevOps / Cloud / Platform Engineer**  
+Adelaide, SA, Australia | Kubernetes GitOps | AWS & Terraform | CI/CD | Linux
 
-I'm an IT student transitioning from full-stack development into DevOps, cloud infrastructure, platform engineering, and SRE fundamentals.
+I am a Master of IT student specializing in cloud infrastructure, GitOps automation, container orchestration, and platform reliability. 
 
-My strongest current work is focused on Kubernetes GitOps deployments, Terraform-managed AWS infrastructure, container delivery pipelines, networking, monitoring, and troubleshooting.
-
----
-
-## DevOps / Cloud Focus
-
-- **Kubernetes & GitOps:** k3s, Helm, ArgoCD, Traefik, cert-manager
-- **AWS & IaC:** Terraform, VPC, EC2, ALB, NAT Gateway, IAM, SSM Session Manager
-- **CI/CD & Containers:** Docker, GitHub Actions, GHCR, immutable Git SHA image tags
-- **Operations:** Linux, DNS, TLS, PostgreSQL, Prometheus, Grafana, debugging and documentation
+My work focuses on declarative Kubernetes deployments, Terraform-managed AWS environments, hybrid CI/CD pipelines, and local AI infrastructure.
 
 ---
 
-## Featured Projects
+## 🧰 Technical Capabilities
 
-### [ERP Lite GitOps Homelab Platform](https://github.com/kaybe005/erp-lite)
+- **Kubernetes & GitOps:** k3s, Helm, ArgoCD, Traefik, cert-manager, Custom Readiness Probes
+- **AWS & Cloud IaC:** Terraform, VPC, EC2, ECR, ALB, NAT Gateway, IAM, SSM Session Manager, S3
+- **CI/CD & Containers:** Docker, Docker Buildx, GitHub Actions, GHCR, AWS ECR, Immutable SHA Tagging
+- **Platform & Runtime:** Linux (Ubuntu/Proxmox VE), FastAPI, Python, Node.js/Next.js, PostgreSQL, Ollama (Local LLM Runtime)
+- **Observability & Operations:** Prometheus, Grafana, Systemd, Reverse Proxies, DNS & TLS Management
 
-Full-stack ERP-style app deployed through a production-style Kubernetes GitOps workflow in a homelab environment.
+---
 
-**Relevant stack:** Next.js, Prisma, PostgreSQL, Docker, GitHub Actions, GHCR, Helm, ArgoCD, k3s, Traefik, cert-manager, Prometheus, Grafana
+## 🚀 Featured Projects
 
-**DevOps/platform work:**
+### [Self-Hosted GitOps AI Inference Platform](https://github.com/kaybe005/ai-inference-gitops)
 
-- Built a CI/CD path from GitHub Actions to GHCR using `linux/amd64` Docker Buildx images and immutable Git SHA tags
-- Deployed the app to k3s with Helm and ArgoCD
-- Configured Traefik ingress, cert-manager TLS, and PVC-backed PostgreSQL
-- Added Prometheus/Grafana monitoring for the homelab stack
-- Worked through real deployment issues: ARM64/AMD64 image mismatch, image pull policy behavior, PVC drift, Prisma migration separation, DNS, ingress, and Grafana troubleshooting
+A zero-downtime, hybrid-cloud GitOps AI inference platform hosted on a local Kubernetes (`k3s`) cluster on Proxmox, integrated with AWS ECR and GitHub Actions.
+
+**Tech Stack:** FastAPI, Python, Ollama (`llama3.2:1b`), Docker, GitHub Actions, AWS ECR, Helm, ArgoCD, k3s, Open WebUI
+
+**Platform & Engineering Work:**
+- Engineered an automated CI/CD pipeline using GitHub Actions to build FastAPI proxy images and push them to private AWS ECR.
+- Configured ArgoCD and Helm for declarative continuous deployment to an on-premises `k3s` cluster.
+- Implemented custom `/readyz` probes and systemd network bindings (`0.0.0.0`) to verify Ollama model availability before routing traffic.
+- Optimized model runtime performance for CPU-only hardware by executing a GitOps rollout to step down to a lightweight 1B quantized LLM.
 
 ---
 
 ### [AWS Secure Web Infrastructure with Terraform](https://github.com/kaybe005/aws-terraform-web-infra)
 
-Terraform-managed AWS learning architecture: public ALB to private EC2 running Nginx, with NAT outbound access and SSM-based administration.
+Declarative AWS cloud architecture provisioning a public ALB to private EC2 running Nginx, with NAT outbound access and SSM-based administration.
 
-**Relevant stack:** Terraform, AWS VPC, EC2, ALB, NAT Gateway, IAM, SSM Session Manager, Nginx, security groups, user data
+**Tech Stack:** Terraform, AWS VPC, EC2, ALB, NAT Gateway, IAM, SSM Session Manager, Nginx, Security Groups
 
-**Cloud/infrastructure work:**
-
-- Built a VPC with 2 public subnets, 2 private subnets, Internet Gateway, NAT Gateway, ALB, target group, and security groups
-- Kept EC2 private with no public IP and used AWS Systems Manager Session Manager instead of SSH
-- Controlled traffic flow from public ALB to private EC2 using security groups
-- Automated Nginx bootstrap with `user_data`
-- Practiced ALB target group and health check debugging
+**Cloud & Infrastructure Work:**
+- Provisioned an isolated VPC with public/private subnets, Internet Gateway, NAT Gateway, ALB, and strict security groups.
+- Enforced zero-public-IP architecture on compute nodes using AWS Systems Manager (SSM) Session Manager instead of SSH.
+- Automated Nginx bootstrapping via EC2 `user_data` and established ALB target group health checks.
 
 ---
 
-## Supporting Full-Stack Background
+### [ERP Lite GitOps Homelab Platform](https://github.com/kaybe005/erp-lite)
 
-I also have application development experience with React, Next.js, Node.js, Express, TypeScript, PostgreSQL, MongoDB, Prisma, and Tailwind.
+Full-stack ERP application deployed through a production-style Kubernetes GitOps workflow in a homelab environment.
 
-That background helps me understand the application, database, and runtime concerns behind the infrastructure I deploy and support.
+**Tech Stack:** Next.js, Prisma, PostgreSQL, Docker, GitHub Actions, GHCR, Helm, ArgoCD, k3s, Traefik, cert-manager, Prometheus, Grafana
 
----
-
-## Currently Learning
-
-- Deeper AWS networking and IAM
-- Terraform modules, remote state, and reusable infrastructure design
-- Kubernetes operations and multi-node cluster management
-- Monitoring, alerting, incident response, and runbook-style troubleshooting
-- Secrets management, backup/restore workflows, and recovery basics
+**Platform & Engineering Work:**
+- Built automated CI/CD with Docker Buildx multi-arch builds and immutable Git SHA container tags.
+- Deployed stateful and stateless services to `k3s` using Helm charts and ArgoCD sync policies.
+- Integrated Traefik ingress routing, cert-manager TLS certificates, and PVC-backed PostgreSQL with Prometheus/Grafana monitoring.
 
 ---
 
-## Connect
+## 💡 Supporting Application Background
 
-- Portfolio: [kalashbijukchhe.dev](https://kalashbijukchhe.dev)
-- LinkedIn: [linkedin.com/in/kayb05](https://linkedin.com/in/kayb05)
-- Email: [kalashbijukchhe74@gmail.com](mailto:kalashbijukchhe74@gmail.com)
+I hold a strong background in full-stack software development (TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS). Understanding application runtimes, database migrations, and API contracts allows me to design better infrastructure and troubleshoot complex system boundaries.
+
+---
+
+## 📈 Currently Expanding
+
+- Advanced AWS Networking (Transit Gateways, PrivateLink) & IAM Policy Scoping
+- Modular Terraform State Architecture & Reusable Infrastructure Code
+- Cluster Reliability, Multi-Node Kubernetes Operations, & Disaster Recovery
+- Observability Stacks (Prometheus Rules, Alertmanager, Grafana Dashboards)
+
+---
+
+## 📫 Connect
+
+- **Portfolio:** [kalashbijukchhe.dev](https://kalashbijukchhe.dev)
+- **LinkedIn:** [linkedin.com/in/kayb05](https://linkedin.com/in/kayb05)
+- **Email:** [kalashbijukchhe74@gmail.com](mailto:kalashbijukchhe74@gmail.com)
+- **GitHub:** [@kaybe005](https://github.com/kaybe005)
